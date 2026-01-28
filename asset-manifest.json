@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/valuedpeople/static/css/main.444813df.css",
-    "main.js": "/valuedpeople/static/js/main.eae6ba0f.js",
-    "static/media/bootstrap-icons.woff?": "/valuedpeople/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
-    "static/media/bootstrap-icons.woff2?": "/valuedpeople/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
-    "index.html": "/valuedpeople/index.html",
-    "main.444813df.css.map": "/valuedpeople/static/css/main.444813df.css.map",
-    "main.eae6ba0f.js.map": "/valuedpeople/static/js/main.eae6ba0f.js.map"
+    "main.css": "/valuedpeople-react/static/css/main.f23b22d5.css",
+    "main.js": "/valuedpeople-react/static/js/main.eae6ba0f.js",
+    "static/media/bootstrap-icons.woff?": "/valuedpeople-react/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/bootstrap-icons.woff2?": "/valuedpeople-react/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "index.html": "/valuedpeople-react/index.html",
+    "main.f23b22d5.css.map": "/valuedpeople-react/static/css/main.f23b22d5.css.map",
+    "main.eae6ba0f.js.map": "/valuedpeople-react/static/js/main.eae6ba0f.js.map"
   },
   "entrypoints": [
-    "static/css/main.444813df.css",
+    "static/css/main.f23b22d5.css",
     "static/js/main.eae6ba0f.js"
   ]
 }
