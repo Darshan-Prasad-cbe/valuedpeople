@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/valuedpeople-react/static/css/main.f23b22d5.css",
-    "main.js": "/valuedpeople-react/static/js/main.83b909db.js",
+    "main.js": "/valuedpeople-react/static/js/main.4833825a.js",
     "static/media/bootstrap-icons.woff?": "/valuedpeople-react/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
     "static/media/bootstrap-icons.woff2?": "/valuedpeople-react/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
     "index.html": "/valuedpeople-react/index.html",
     "main.f23b22d5.css.map": "/valuedpeople-react/static/css/main.f23b22d5.css.map",
-    "main.83b909db.js.map": "/valuedpeople-react/static/js/main.83b909db.js.map"
+    "main.4833825a.js.map": "/valuedpeople-react/static/js/main.4833825a.js.map"
   },
   "entrypoints": [
     "static/css/main.f23b22d5.css",
-    "static/js/main.83b909db.js"
+    "static/js/main.4833825a.js"
   ]
 }
