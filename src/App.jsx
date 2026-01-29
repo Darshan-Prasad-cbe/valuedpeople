@@ -1,8 +1,8 @@
 import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+import { HashRouter, Routes, Route } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap-icons/font/bootstrap-icons.css';
-import './styles/main.css';
+import './styles/mains.css';
 
 // Components
 import Header from './components/Header';
@@ -21,7 +21,7 @@ import NotFoundPage from './pages/NotFoundPage';
 
 const App = () => {
   return (
-    <BrowserRouter>
+    <HashRouter>
       <div className="app-wrapper">
         <Header />
         <MainNavbar />
@@ -39,7 +39,7 @@ const App = () => {
         </main>
         <Footer />
       </div>
-    </BrowserRouter>
+    </HashRouter>
   );
 };
 
